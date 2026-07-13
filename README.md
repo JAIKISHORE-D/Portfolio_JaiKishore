@@ -8,7 +8,7 @@ Designed with a clean **dark theme**, this portfolio serves as both my online re
 
 ## 🌐 Live Website
 
-> 🔗 Coming Soon
+>  🔗 https://jaikishore-d.github.io/Portfolio_JaiKishore/
 
 ---
 
