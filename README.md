@@ -28,9 +28,7 @@ I am **Jai Kishore D**, a Graduate Engineer passionate about:
 
 - Product Management
 - Artificial Intelligence
-- Networking
-- Supply Chain Management
-- Design Engineering
+- Networking Engineering
 - Engineering Leadership
 
 I enjoy building impactful solutions, leading technical teams, and continuously learning emerging technologies.
