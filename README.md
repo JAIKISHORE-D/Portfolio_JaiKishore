@@ -259,11 +259,11 @@ Includes
 
 📧 Email: jaikishore.20050@gmail.com
 
-💼 LinkedIn: 
+💼 LinkedIn: www.linkedin.com/in/jai-kishore-d-9b3753337
 
 💻 GitHub: 
 
-🌍 Portfolio: 
+🌍 Portfolio: https://jaikishore-d.github.io/Portfolio_JaiKishore/
 
 ---
 
