@@ -261,7 +261,7 @@ Includes
 
 💼 LinkedIn: www.linkedin.com/in/jai-kishore-d-9b3753337
 
-💻 GitHub: 
+💻 GitHub: https://github.com/JAIKISHORE-D
 
 🌍 Portfolio: https://jaikishore-d.github.io/Portfolio_JaiKishore/
 
